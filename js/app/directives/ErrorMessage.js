@@ -1,6 +1,6 @@
 function ErrorMessage() {
 	return {
-		template: '<div>Oh no, an error occured!</div>'
+		templateUrl: 'js/app/views/error.html'
 	};
 }
 
