@@ -1,6 +1,6 @@
 function SuccessMessage() {
 	return {
-		template: '<div>Woohoo! Success!</div>'
+		template: '<div>Change this success message using templateUrl!</div>'
 	};
 }
 
